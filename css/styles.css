@@ -934,8 +934,7 @@ a {
   resize: none;
   padding: 10px;
 }
-.modal-div:hover,
-.modal-div:focus {
+.modal-text-area:hover {
   border-color: var(--accent-color);
 }
 .check-text {
